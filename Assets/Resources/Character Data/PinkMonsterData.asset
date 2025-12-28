@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1f028ae33174ec5966409592b28930, type: 3}
+  m_Name: PinkMonsterData
+  m_EditorClassIdentifier: 
+  monsterName: Pinky
+  monsterColor: {r: 0.9137255, g: 0.11764706, b: 0.3882353, a: 1}
+  idleSprite: {fileID: 0}
+  happySprite: {fileID: 0}
+  sadSprite: {fileID: 0}
+  eatingSprite: {fileID: 0}
+  idleAnimation: {fileID: 0}
+  happyAnimation: {fileID: 0}
+  sadAnimation: {fileID: 0}
+  eatingAnimation: {fileID: 0}
+  eatSound: {fileID: 0}
+  happySound: {fileID: 0}
+  sadSound: {fileID: 0}
+  happyParticles: {fileID: 0}
+  sadParticles: {fileID: 0}
+  reactionSpeed: 1
